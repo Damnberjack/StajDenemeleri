@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EFCore_ChangeTracker.props" />
+</Project>
