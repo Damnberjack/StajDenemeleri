@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EFCore_Learning-SeedData.props" />
+</Project>
